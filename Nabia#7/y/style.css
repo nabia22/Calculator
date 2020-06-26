@@ -1,0 +1,46 @@
+h1{
+    color: blueviolet;
+   
+}
+
+.main{
+    border: 2px solid blue ;
+    background-color: #EEEEEE;
+    width: 200px;
+    margin: 0 auto;
+}
+
+.result{
+    width: 94%;
+    color: #ffffff;
+    background-color: #84FFFF;
+    margin-top: 2px;
+    margin-left: 2px;
+}
+
+.clearBtn{
+    width: 98%;
+    margin-top: 4px;
+    margin-left: 2px;
+    color: #FF3D00;
+    background-color: #84FFFF;
+}
+
+.btn{
+    width: 45px;
+   margin: 2px 0px 2px 1.6px;
+   background-color: #84FFFF;
+   color: #FF3D00;
+
+}
+/* 
+.halfBtn{
+    width: 45px;
+    width: 95px; 
+     margin-left: 2px;
+    color: #FF3D00;
+    margin-bottom: 2px;
+    margin: 2px 0px 2px 1.6px;
+    background-color: #EEFF41
+    
+} */
